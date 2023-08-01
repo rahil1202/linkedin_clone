@@ -2,9 +2,9 @@
 
 Welcome to the GitHub repository of my LinkedIn clone built using ReactJS, HTML, CSS, Redux, and Firebase. This project is a web application that replicates some of the key features and functionalities of the popular professional networking platform, LinkedIn.
 
-# Live Link 
+# Live Demo
 
-Click here for <a href= "https://linkedin-clone-rahil1202.netlify.app>live preview</a> 
+Check out the live demo of the LinkedIn Clone: : [Live Demo](http://linkedin-clone-rahil1202.netlify.app)
 
 ## Table of Contents
 
